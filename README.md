@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaxenGamer001
-- 👀 I’m interested in programming, Video Games and linxu
+- 👀 I’m interested in programming, Video Games and Linux
 - 🌱 I’m currently learning 
 
 <!---
