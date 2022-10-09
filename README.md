@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=b8bb26&lines=HELLO+WORLD+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=98971A&lines=HELLO+WORLD+!)](https://git.io/typing-svg)
 
 ## About Me
 
