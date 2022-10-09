@@ -10,14 +10,12 @@ I'm currently pursuing my Bachelor's Degree in Computer Science and Engineering 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git)
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=gray)
 ![java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
-
 ![Html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/css3-css-white?style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
