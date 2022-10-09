@@ -28,7 +28,3 @@ By The Way I use Arch Linux 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raxen001&show_icons=true&theme=gruvbox)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raxen001&show_icons=true&locale=en" alt="raxen001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raxen001&" alt="raxen001" /></p>
-
