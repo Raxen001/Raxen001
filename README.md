@@ -1,6 +1,6 @@
-# Hello World
+# I am Raxen
+##FOSS fanatic
 
-I am Raxen.
 By The Way I use Arch Linux 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -17,7 +17,6 @@ By The Way I use Arch Linux
 ⠀⢀⣾⣿⣿⠿⠟⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠻⠿⣿⣿⣷⡀⠀
 ⣠⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣄
 ```
-<h3 align="center">FOSS fanatic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raxen001&label=Profile%20views&color=0e75b6&style=flat" alt="raxen001" /> </p>
 
