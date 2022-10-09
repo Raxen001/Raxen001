@@ -2,7 +2,8 @@
 
 ## About Me
 
-HELLO I'm RITHESH S. 
+Hello,  I'm **RITHESH S**.
+
 I'm currently pursuing my Bachelor's Degree in Computer Science and Engineering at Rajalakshmi Engineering College (Tamil Nadu, India).
 
 ## Languages/Skills
