@@ -12,7 +12,7 @@ I'm currently pursuing my Bachelor's Degree in Computer Science and Engineering 
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=gray)
@@ -35,7 +35,7 @@ I'm currently pursuing my Bachelor's Degree in Computer Science and Engineering 
 
 ### Software/Services
 
-![Neovim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+[![Neovim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://https://neovim.io/)
 [![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white)](https://tutanota.com/)
 
