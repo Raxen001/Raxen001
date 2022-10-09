@@ -12,7 +12,6 @@ I'm currently pursuing my Bachelor's Degree in Computer Science and Engineering 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git)
 
 ## My Setup
