@@ -38,14 +38,3 @@ I'm currently pursuing my Bachelor's Degree in Information Technology.
 [![Neovim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://https://neovim.io/)
 [![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=tutanota&logoColor=white)](https://tutanota.com/)
-
-## My Github Stats 
-![raxen](https://github-readme-stats.vercel.app/api/top-langs/?username=raxen001&theme=gruvbox&show_icons=true)
-
-<br>
-
-----
-
-<br>
-
-![raxen stats](https://github-readme-stats.vercel.app/api?username=raxen001&theme=gruvbox&show_icons=true)
