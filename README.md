@@ -4,7 +4,7 @@
 
 Hello,  I'm **RITHESH S**.
 
-I'm currently pursuing my Bachelor's Degree in Information Technology.
+I try to tell a computer to change lights as i demand it.
 
 ## Languages/Skills
 
